@@ -1,0 +1,8 @@
+FLUJO DEL SISTEMA "PETICICN EN 3 CLICS"
+
+Paso 1: Un ciudadano registra una causa en la plataforma con tC-tulo y descripciC3n.
+Paso 2: La causa se guarda en la base de datos y se genera un enlace pC:blico para compartir.
+Paso 3: Otros ciudadanos ingresan al enlace y apoyan la causa con su nombre.
+Paso 4: El sistema cuenta automC!ticamente los apoyos recibidos.
+Paso 5: Cuando se alcanza el objetivo, el sistema genera un documento PDF con la peticiC3n formal para poder presentarla ante las entidades.
+

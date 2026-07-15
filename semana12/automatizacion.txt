@@ -1,0 +1,16 @@
+AUTOMATIZACION CON n8n O TELEGRAM
+
+Evento que activa la automatizaciC3n: 
+Cuando se registra un nuevo apoyo en una causa.
+
+Mensaje que se envia:
+"llevamos [total de apoyos] apoyos. 
+Revisa el avance aque: [enlace de la causa]"
+
+InformaciC3n que NO debe enviarse por seguridad:
+- Cedula de ciudadania
+- Numero de telefono
+- DirecciC3n de residencia
+- Correo electrC3nico personal
+- Datos sensibles o comentarios privados de los usuarios
+

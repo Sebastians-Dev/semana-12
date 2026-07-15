@@ -1,0 +1,16 @@
+MODELO DE DATOS SIMPLE
+
+ENTIDAD 1: Causa
+- id: Identificador C:nico de la causa
+- titulo: Nombre de la causa o peticiC3n
+- descripcion: ExplicaciC3n del problema y lo que se solicita
+- fecha: Fecha en que se creC3 la causa
+Sirve para: Registrar cada peticiC3n que se va a promover en la plataforma.
+
+ENTIDAD 2: Apoyo
+- id: Identificador C:nico del apoyo
+- causa_id: Identificador de la causa a la que se apoya
+- nombre: Nombre de la persona que apoya
+- fecha: Fecha en que se registrC3 el apoyo
+Sirve para: Llevar el conteo de las personas que respaldan cada causa y poder generar el PDF final.
+
